@@ -1,0 +1,8 @@
+.Container{
+    background: linear-gradient(to bottom , #89cff0 , #005c99);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}

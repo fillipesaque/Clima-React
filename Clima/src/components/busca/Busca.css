@@ -1,0 +1,36 @@
+.BuscaContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.BuscaCidade{
+   padding: 10px 15px;
+   border: none;
+   border-radius: 5px; 
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+   font-size: 16px;
+   outline: none;
+   width: 60%;
+   margin-right: 10px;
+   margin-top: 15px;
+   color: #007bff;
+
+   &:focus {
+    border: 1px solid #007bff;
+   }
+}
+
+.Btn-Buscar{
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+
+    &:hover{
+        background-color: #0056b3;
+    }
+}

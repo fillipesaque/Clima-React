@@ -1,0 +1,19 @@
+.Container-ClimaAtual {
+    text-align: center;
+    margin-right: 70px;
+}
+
+.Container-ClimaAtual h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.Container-ClimaAtual img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.Container-ClimaAtual p {
+    margin-bottom: 5px;
+}
