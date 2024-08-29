@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 #App - Clima
 ![Screenshot do Projeto](./src/assets/clima.png)
-![link](https://clima-react-two.vercel.app)
+[Link para o projeto](https://clima-react-two.vercel.app)
 
